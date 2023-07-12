@@ -17,6 +17,7 @@ namespace Arithmetic
             addTest.GetNumber2();
             addTest.Sum();
 
+            Console.Write("This is a test!");
             Console.ReadLine();
         }
     }
